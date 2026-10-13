@@ -1,0 +1,12 @@
+﻿.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.vscode/
+.ipynb_checkpoints/
+Thumbs.db
+Desktop.ini
+*.png
+output/
