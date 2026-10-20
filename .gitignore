@@ -8,5 +8,4 @@ __pycache__/
 .ipynb_checkpoints/
 Thumbs.db
 Desktop.ini
-*.png
 output/
